@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1624973196 source:/home/dorn/WorkSpaceC/EDA/EDA++/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"ContaBancaria.h"
+
+1624973169 /home/dorn/WorkSpaceC/EDA/EDA++/ContaBancaria.h
+
